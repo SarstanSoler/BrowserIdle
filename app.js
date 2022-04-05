@@ -29,7 +29,7 @@ $(document).ready(function(){
 
 		}else{
 			stone += stonePlus;
-			changeInventory;
+			changeInventory();
 		}
 	})
 
